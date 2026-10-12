@@ -1,0 +1,6 @@
+# Raúl Wesche — artist site
+# https://wesche.com/llms.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://wesche.com/sitemap.xml
